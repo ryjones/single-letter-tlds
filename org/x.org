@@ -1,0 +1,176 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.publicinterestregistry.org
+
+domain:       ORG
+
+organisation: Public Interest Registry (PIR)
+address:      11911 Freedom Drive,
+address:      10th Floor, Suite 1000
+address:      Reston VA 20190
+address:      United States of America (the)
+
+contact:      administrative
+name:         Director of Operations, Compliance and Customer Support
+organisation: Public Interest Registry (PIR)
+address:      11911 Freedom Drive,
+address:      10th Floor, Suite 1000
+address:      Reston VA 20190
+address:      United States of America (the)
+phone:        +1 703 889 5778
+fax-no:       +1 703 889 5779
+e-mail:       ops@pir.org
+
+contact:      technical
+name:         Senior Director, DNS Infrastructure Group
+organisation: Donuts Inc.
+address:      10500 NE 8th Street, Suite 750
+address:      Bellevue WA 98004
+address:      United States of America (the)
+phone:        1.425.298.2200
+fax-no:       1.425.671.0020
+e-mail:       tldtech@donuts.email
+
+nserver:      A0.ORG.AFILIAS-NST.INFO 199.19.56.1 2001:500:e:0:0:0:0:1
+nserver:      A2.ORG.AFILIAS-NST.INFO 199.249.112.1 2001:500:40:0:0:0:0:1
+nserver:      B0.ORG.AFILIAS-NST.ORG 199.19.54.1 2001:500:c:0:0:0:0:1
+nserver:      B2.ORG.AFILIAS-NST.ORG 199.249.120.1 2001:500:48:0:0:0:0:1
+nserver:      C0.ORG.AFILIAS-NST.INFO 199.19.53.1 2001:500:b:0:0:0:0:1
+nserver:      D0.ORG.AFILIAS-NST.ORG 199.19.57.1 2001:500:f:0:0:0:0:1
+ds-rdata:     26974 8 2 4fede294c53f438a158c41d39489cd78a86beb0d8a0aeaff14745c0d16e1de32
+
+whois:        whois.publicinterestregistry.org
+
+status:       ACTIVE
+remarks:      Registration information:
+remarks:      http://publicinterestregistry.org
+
+created:      1985-01-01
+changed:      2022-06-03
+source:       IANA
+
+# whois.publicinterestregistry.org
+
+Domain Name: x.org
+Registry Domain ID: fde7ba24d64a4bbeb2b72ced1e3037b6-LROR
+Registrar WHOIS Server: whois.networksolutions.com
+Registrar URL: http://www.networksolutions.com
+Updated Date: 2018-12-04T15:04:17Z
+Creation Date: 1997-01-18T05:00:00Z
+Registry Expiry Date: 2025-01-19T05:00:00Z
+Registrar: Network Solutions, LLC
+Registrar IANA ID: 2
+Registrar Abuse Contact Email: domain.operations@web.com
+Registrar Abuse Contact Phone: +1.8777228662
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: X.ORG Foundation, LLC
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: MA
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: US
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns1.x.org
+Name Server: ns2.x.org
+Name Server: ns3.x.org
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2023-07-15T04:42:38Z <<<
+
+# whois.networksolutions.com
+
+Domain Name: X.ORG
+Registry Domain ID: D3969046-LROR
+Registrar WHOIS Server: whois.networksolutions.com
+Registrar URL: http://www.networksolutions.com
+Updated Date: 2018-01-12T00:54:32Z
+Creation Date: 2002-09-13T19:19:10Z
+Registrar Registration Expiration Date: 2025-01-19T05:00:00Z
+Registrar: NETWORK SOLUTIONS, LLC.
+Registrar IANA ID: 2
+Reseller: 
+Domain Status: 
+Registry Registrant ID: 
+Registrant Name: X.ORG Foundation, LLC
+Registrant Organization: X.ORG Foundation, LLC
+Registrant Street: 163 TAPPAN ST
+Registrant City: BROOKLINE
+Registrant State/Province: MA
+Registrant Postal Code: 02445-5817
+Registrant Country: US
+Registrant Phone: 617-277-0087
+Registrant Phone Ext: 
+Registrant Fax: 617-277-0022
+Registrant Fax Ext: 
+Registrant Email: leon@shiman.com
+Registry Admin ID: 
+Admin Name: X.ORG Foundation, LLC
+Admin Organization: X.ORG Foundation, LLC
+Admin Street: 163 TAPPAN ST
+Admin City: BROOKLINE
+Admin State/Province: MA
+Admin Postal Code: 02445-5817
+Admin Country: US
+Admin Phone: 617-277-0087
+Admin Phone Ext: 
+Admin Fax: 617-277-0022
+Admin Fax Ext: 
+Admin Email: leon@shiman.com
+Registry Tech ID: 
+Tech Name: X.ORG Foundation, LLC
+Tech Organization: X.ORG Foundation, LLC
+Tech Street: 163 TAPPAN ST
+Tech City: BROOKLINE
+Tech State/Province: MA
+Tech Postal Code: 02445-5817
+Tech Country: US
+Tech Phone: 617-277-0087
+Tech Phone Ext: 
+Tech Fax: 617-277-0022
+Tech Fax Ext: 
+Tech Email: leon@shiman.com
+Name Server: NS1.X.ORG
+Name Server: NS2.X.ORG
+Name Server: NS3.X.ORG
+DNSSEC: Unsigned
+Registrar Abuse Contact Email: domain.operations@web.com
+Registrar Abuse Contact Phone: +1.8777228662
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2023-07-15T04:42:39Z <<<
+
